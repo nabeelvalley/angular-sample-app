@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "echo running-stuff &&  ng build",
     "test": "ng test",
     "lint": "ng lint --force",
     "prepare": "husky install"
